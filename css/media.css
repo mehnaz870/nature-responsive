@@ -1,0 +1,164 @@
+
+
+@media (max-width:767px){
+    .navbar-light .navbar-toggler {
+        margin-right: 320px;
+    }
+    .feature h3 {
+        font-size: 35px;
+    }
+    .feature p {
+        font-size: 18px;
+        padding-bottom: 100px;
+    }
+    .website h1 {
+        font-size: 28px;}
+        .website p {
+            font-size: 16px;
+            margin-bottom: 50px;
+        }
+            .btn-secondary {
+                margin-bottom: 100px;
+                margin-left: 150px;
+            }
+            .btn-success {
+                margin-left: 150px;}
+    
+}
+ 
+@media (max-width:425px){
+        .navbar-light .navbar-toggler {
+            margin-right: 210px;
+        }
+        .content span {
+            width: 13%;
+            margin-left: 40%;
+        }
+        .feature h3 {
+            font-size: 35px;
+        }
+        .feature p {
+            font-size: 18px;
+            padding-bottom: 30px;
+        }
+        .original p {
+            font-size: 20px;
+            font-family: unset;}
+    
+        .website h6 {
+            font-size: 14px;
+            margin-top: 2px;
+        }
+        .website h1 {
+          font-size: 30px;}
+        .website p {
+         font-size: 18px;}
+         .btn-secondary {
+            margin-bottom: 50px;
+            margin-left: 100px;
+        }
+        
+       .btn-success {
+        margin-left: 105px;
+        }
+        .design p {
+            text-align: center;
+            font-size: 16px;}
+    }
+
+@media (max-width:375px){
+    .navbar-light .navbar-toggler {
+        margin-right: 160px;
+    }
+    .content span {
+        width: 13%;
+        margin-left: 40%;
+    }
+    .feature h3 {
+        font-size: 35px;
+    }
+    .feature p {
+        font-size: 18px;
+        padding-bottom: 30px;
+    }
+    .original p {
+        font-size: 20px;
+        font-family: unset;}
+
+    .website h6 {
+        font-size: 14px;
+        margin-top: 2px;
+    }
+    .website h1 {
+      font-size: 30px;}
+    .website p {
+     font-size: 16px;}
+     .btn-secondary {
+        margin-bottom: 50px;
+    }
+    
+   .btn-success {
+    margin-left: 105px;
+    }
+    .design p {
+        text-align: center;
+        font-size: 20px;}
+}
+
+@media (max-width:320px){
+    .navbar-light .navbar-toggler {
+        margin-right: 99px;
+    }
+
+    .content span {
+        width: 13%;
+        margin-left: 40%;
+    }
+    .feature h3 {
+        font-size: 35px;
+    }
+    .feature p {
+        font-size: 18px;
+        padding-bottom: 30px;
+    }
+    .website h6 {
+        font-size: 14px;}
+    .website h1 {
+      font-size: 30px;}
+    .website p {
+     font-size: 16px;}
+     .btn-secondary {
+        margin-bottom: 50px;
+        margin-left: 50px;
+    }
+    .original p {
+        font-size: 16px;
+        font-weight: 700;
+        font-family: unset;
+    }
+    .website h6 {
+        font-size: 14px;}
+        .website p {
+            margin-bottom: 55px;
+            font-family:unset ;
+        }
+        .website {
+            margin-bottom:2px;}
+            .website h6 {
+                font-size: 16px;
+                margin-top: 2px;
+            }
+     .website h1 {
+         font-size: 28px;}
+    .design h1 {
+        font-size: 39px;}
+        .btn-success {
+            margin-left: 50px;}
+}
+    
+
+
+
+
+
+
